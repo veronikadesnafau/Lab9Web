@@ -1,18 +1,12 @@
 # Lab9Web
 dan link Lab10Web
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Veronika Desna Fau
+###### NIM : 312010333
 ###### Kelas : TI.A.2
 
 ## Tugas PHP Modular
 
-Tujuan
-
-1. Mahasiswa mampu memahami konsep dasar Modularisasi Program. 
-2. Mahasiswa mampu memahami konsep dasar Fungsi pada PHP. 
-3. Mahasiswa mampu membuat program Modular sederhana menggunakan PHP. 
-4. Mahasiswa mampu mengimplementasikan penggunaan fungsi pada PHP
 
 Instruksi Praktikum
 
@@ -59,4 +53,4 @@ Hasil output dengan menggunakan file yang terpisah tetapi di satukan dengan modu
 
 
 ## Link Lab10Web OOP (object oriented programming)
-#### https://github.com/faraclara/Lab10Web
+#### https://github.com/veronikadesnafau/Lab10Web
